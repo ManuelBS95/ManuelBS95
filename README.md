@@ -12,7 +12,6 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"],
       },
-      databases: ["MongoDB", "mySQL"],
    },
    tools: Neovim
 };
